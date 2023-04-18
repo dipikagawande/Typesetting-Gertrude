@@ -1,5 +1,5 @@
 # Typesetting-Gertrude
-Experiments in typography. Typesetting Gertrude Stein's "On Punctuation"  as a chapbook.
+Experiments in typography. Typesetting Gertrude Stein's "On Punctuation"  as a chapbook. Referencing the typesetting experiments of On Kawara (1960), NH Pritchard and John Cage (1
 
 ![H_5 5x8 5_IBMplex_v2_page-0001](https://user-images.githubusercontent.com/36409429/232241861-83950b98-80d3-41d1-b5ed-4e3afb855b99.jpg)
 ![H_5 5x8 5_IBMplex_v2_page-0002](https://user-images.githubusercontent.com/36409429/232241862-f674fb48-911b-416f-982f-419f467e8529.jpg)
